@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bismasid/seasonal-crop-planner/blob/main/BismaSiddiqui_CIS173_Final_Project.ipynb)
+
 # Seasonal Crop Planner 🌱
 
 Created by: Bisma Siddiqui
